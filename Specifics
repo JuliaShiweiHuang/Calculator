@@ -1,0 +1,10 @@
+• Computations must be done in order of precedence. For this assignment, ˆ has the highest
+precedence, followed by ∗, / (same precedence), and finally +, − (same precedence). Multiple operators with the
+same precedence are handled in left-to-right order.
+
+• Stacks MUST be used to determine the answer. You must implement the stack using a
+linked-list (do not use STL). 
+
+• Several steps are necessary to solve this problem. First you must convert the input infix
+expression to postfix. Then find the solution to the postfix expression. 
+One problem you must tackle is how to store the intermediate postfix expression.
