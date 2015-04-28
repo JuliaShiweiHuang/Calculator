@@ -1,0 +1,2 @@
+The program should display, simply, the answer (!) of the calculation on the screen. The output
+should be displayed with 3 decimal places.
