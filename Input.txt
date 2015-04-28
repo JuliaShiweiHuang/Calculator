@@ -1,0 +1,7 @@
+The input will be a one line calculation such as the following:
+5+3.3∗8−9=
+The expression is in infix order and may be any length. Valid operators are +, −, /, ∗, and
+ˆ (exponentiation). Each number can be any floating point value. There are no spaces in
+between any individual items of the input. The equal sign signifies the end of the expression.
+NO parentheses may be input. You may assume that the input will be typed in correctly, so no
+error checking is necessary.
